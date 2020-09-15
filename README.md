@@ -16,6 +16,8 @@ Steps to get the chromedriver.exe file:
 - Go to Google Chrome
 - Click on three dots on the rightmost top corner
 - Go to help and click on about Google Chrome. You will find the chrome version here
+- Download the same chrome driver from here  " https://chromedriver.storage.googleapis.com/index.html "
+- Put it inside the same folder of your code
 
 
 ## To execute this project on your system:
