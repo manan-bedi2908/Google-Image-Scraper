@@ -11,7 +11,7 @@ Structure of the project:
 3. chromedriver.exe -> ChromeDriver for the Google Chrome Version we have on our Laptop/PC
 
 ## To execute this project on your system:
-First of all, fork and clone this repository on your system
+#### First of all, fork and clone this repository on your system
 #### Open the project in any Python IDE like PyCharm or Spyder
 #### Open Terminal, execute  "pip install -r requirements.txt". This will automatically download all the dependencies of the project.
 #### Once libraries are installed, execute "python scrape_image.py"
