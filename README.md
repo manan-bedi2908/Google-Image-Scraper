@@ -10,6 +10,14 @@ Structure of the project:
 2. requirements.txt -> Dependencies of the Project
 3. chromedriver.exe -> ChromeDriver for the Google Chrome Version we have on our Laptop/PC
 
+(Note: Download the ChromeDriver according to your Google Chrome Version)
+
+Steps to get the chromedriver.exe file:
+- Go to Google Chrome
+- Click on three dots on the rightmost top corner
+- Go to help and click on about Google Chrome. You will find the chrome version here
+
+
 ## To execute this project on your system:
 #### First of all, fork and clone this repository on your system
 #### Open the project in any Python IDE like PyCharm or Spyder
