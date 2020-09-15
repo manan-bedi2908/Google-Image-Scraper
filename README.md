@@ -28,3 +28,4 @@ Steps to get the chromedriver.exe file:
 #### Once libraries are installed, execute "python scrape_image.py"
 
 ## Congratulations 🎉🎊, The image and the number of images you wanted to download will be automatically done and stored in the images folder in the same directory of the project
+## Do Star the repository if you like 🌟
