@@ -12,10 +12,10 @@ Structure of the project:
 
 To execute this project on your system:
 First of all, fork and clone this repository on your system
-## Open the project in any Python IDE like PyCharm or Spyder
-## Open Terminal, execute  "pip install -r requirements.txt". This will automatically download all the dependencies of the project.
-## Once libraries are installed, execute "python scrape_image.py"
+#### Open the project in any Python IDE like PyCharm or Spyder
+#### Open Terminal, execute  "pip install -r requirements.txt". This will automatically download all the dependencies of the project.
+#### Once libraries are installed, execute "python scrape_image.py"
 
-# Congratulations, The image and the number of images you wanted to download will be automatically done and stored in the images folder in the same directory of the project
+## Congratulations, The image and the number of images you wanted to download will be automatically done and stored in the images folder in the same directory of the project
 
 
